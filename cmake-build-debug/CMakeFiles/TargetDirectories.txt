@@ -1,0 +1,2 @@
+C:/Users/kibir/CLionProjects/Cproje/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kibir/CLionProjects/Cproje/cmake-build-debug/CMakeFiles/rebuild_cache.dir

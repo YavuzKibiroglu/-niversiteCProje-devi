@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\kibir\CLionProjects\Cproje Select CMakeLists.txt
